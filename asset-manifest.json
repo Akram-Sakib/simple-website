@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/simple-website/static/css/main.d948bfe9.chunk.css",
+    "main.js": "/simple-website/static/js/main.0ff460aa.chunk.js",
+    "main.js.map": "/simple-website/static/js/main.0ff460aa.chunk.js.map",
+    "runtime-main.js": "/simple-website/static/js/runtime-main.99f59ba8.js",
+    "runtime-main.js.map": "/simple-website/static/js/runtime-main.99f59ba8.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/simple-website/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8d64829a.chunk.js": "/simple-website/static/js/2.8d64829a.chunk.js",
+    "static/js/2.8d64829a.chunk.js.map": "/simple-website/static/js/2.8d64829a.chunk.js.map",
+    "static/js/3.ac7e6aa3.chunk.js": "/simple-website/static/js/3.ac7e6aa3.chunk.js",
+    "static/js/3.ac7e6aa3.chunk.js.map": "/simple-website/static/js/3.ac7e6aa3.chunk.js.map",
+    "index.html": "/simple-website/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/simple-website/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.d948bfe9.chunk.css.map": "/simple-website/static/css/main.d948bfe9.chunk.css.map",
+    "static/js/2.8d64829a.chunk.js.LICENSE.txt": "/simple-website/static/js/2.8d64829a.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/simple-website/static/media/Banner.65bed6e6.jpg",
+    "static/media/about_us_img.de0e2635.jpg": "/simple-website/static/media/about_us_img.de0e2635.jpg",
+    "static/media/bannerLeftImage.2ef43d9e.png": "/simple-website/static/media/bannerLeftImage.2ef43d9e.png",
+    "static/media/Countsection.css": "/simple-website/static/media/counterSectionBg.2acb5b4f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99f59ba8.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.8d64829a.chunk.js",
+    "static/css/main.d948bfe9.chunk.css",
+    "static/js/main.0ff460aa.chunk.js"
+  ]
+}
